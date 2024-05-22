@@ -33,10 +33,10 @@ Organized Structure: Solutions are neatly organized into directories based on to
 
 Getting Started
 Clone the repository:
-git clone https://github.com/yourusername/leetcode-dsa-cp.git
+git clone https://github.com/ShivamKumar2883/LeetCodeSolutions.git
 
 Navigate to a specific problem:
-cd leetcode-dsa-cp/Data_Structures/Arrays
+cd LeetCodeSolutions/Data_Structures/Arrays
 
 Compile and run the code:
 g++ problem_name.cpp -o problem_name
