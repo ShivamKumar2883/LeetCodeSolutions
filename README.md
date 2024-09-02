@@ -50,6 +50,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Array
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -58,9 +59,18 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0007-reverse-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
