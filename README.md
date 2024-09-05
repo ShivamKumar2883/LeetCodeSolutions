@@ -70,6 +70,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [2155-find-missing-observations](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
 ## Binary Search
 |  |
