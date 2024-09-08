@@ -114,4 +114,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
