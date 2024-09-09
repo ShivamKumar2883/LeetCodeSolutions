@@ -55,11 +55,13 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +100,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
