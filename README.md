@@ -52,6 +52,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -87,6 +88,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
@@ -134,6 +136,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
