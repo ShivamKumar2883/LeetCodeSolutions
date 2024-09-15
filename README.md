@@ -90,16 +90,19 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
 | ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -138,6 +141,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
