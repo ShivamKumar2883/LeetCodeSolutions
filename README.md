@@ -50,6 +50,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -79,6 +80,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0009-palindrome-number) |
+| [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
@@ -95,6 +97,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -153,4 +156,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
