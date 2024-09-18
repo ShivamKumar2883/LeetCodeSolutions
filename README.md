@@ -50,6 +50,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
@@ -97,6 +98,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -162,5 +164,10 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
