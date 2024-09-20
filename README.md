@@ -100,6 +100,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -184,4 +185,16 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
