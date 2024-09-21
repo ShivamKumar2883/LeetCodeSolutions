@@ -130,6 +130,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -197,4 +198,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
