@@ -52,6 +52,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -91,6 +92,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
@@ -216,4 +218,16 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
