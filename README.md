@@ -58,6 +58,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0859-design-circular-deque](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -232,6 +233,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -250,4 +252,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
