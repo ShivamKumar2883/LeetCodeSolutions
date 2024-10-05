@@ -118,6 +118,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0214-shortest-palindrome](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -129,6 +130,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -271,5 +273,10 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
