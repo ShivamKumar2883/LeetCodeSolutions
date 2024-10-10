@@ -57,6 +57,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -278,6 +279,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -292,4 +294,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
