@@ -69,6 +69,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -114,6 +115,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -216,6 +219,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -289,6 +293,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
@@ -298,4 +303,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
