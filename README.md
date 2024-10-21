@@ -134,6 +134,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [1197-parsing-a-boolean-expression](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -155,6 +156,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2755-extra-characters-in-a-string) |
@@ -332,6 +334,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
