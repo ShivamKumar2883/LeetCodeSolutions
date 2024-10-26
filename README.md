@@ -75,6 +75,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2755-extra-characters-in-a-string) |
@@ -180,6 +181,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -189,11 +191,13 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -201,6 +205,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Database
