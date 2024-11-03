@@ -140,6 +140,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0241-different-ways-to-add-parentheses](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -299,6 +300,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
