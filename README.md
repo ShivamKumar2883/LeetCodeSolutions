@@ -158,6 +158,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3451-string-compression-iii) |
 ## Hash Table
 |  |
 | ------- |
