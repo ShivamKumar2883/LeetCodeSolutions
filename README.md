@@ -75,6 +75,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2155-find-missing-observations](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -130,6 +131,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
