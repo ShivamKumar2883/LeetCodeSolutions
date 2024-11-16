@@ -94,6 +94,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -394,6 +395,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0567-permutation-in-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
