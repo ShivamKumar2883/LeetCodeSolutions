@@ -449,4 +449,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
