@@ -245,6 +245,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -458,6 +459,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -465,4 +467,8 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
