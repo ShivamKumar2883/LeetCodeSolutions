@@ -55,6 +55,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
@@ -346,6 +347,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -366,6 +368,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -453,6 +456,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -494,6 +498,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
