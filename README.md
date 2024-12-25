@@ -271,6 +271,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -282,6 +283,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -293,6 +295,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -305,6 +308,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
