@@ -63,6 +63,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -396,6 +397,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1063-best-sightseeing-pair](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
