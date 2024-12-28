@@ -53,6 +53,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -394,6 +395,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
