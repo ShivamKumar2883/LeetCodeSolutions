@@ -96,6 +96,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [2232-adding-spaces-to-a-string](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -198,6 +199,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 | [1694-make-sum-divisible-by-p](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/3427-special-array-ii) |
