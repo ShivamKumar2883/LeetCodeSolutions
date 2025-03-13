@@ -50,6 +50,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -175,6 +176,7 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/ShivamKumar2883/LeetCodeSolutions/tree/master/0792-binary-search) |
